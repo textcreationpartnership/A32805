@@ -1,0 +1,550 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of God Almighty's providence both in the sending and dissolving great snows &amp; frosts, and the improvement we ought to make of it a sermon occasioned by the late extreme cold weather, preached in it to his neighbours, and now thought fit to be made more public, for the common good / by Benj. Camfield ...</title>
+            <author>Camfield, Benjamin, 1638-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32805</idno>
+            <idno type="STC">Wing C382</idno>
+            <idno type="STC">ESTC R5822</idno>
+            <idno type="EEBO-CITATION">13693081</idno>
+            <idno type="OCLC">ocm 13693081</idno>
+            <idno type="VID">101410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101410)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 840:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of God Almighty's providence both in the sending and dissolving great snows &amp; frosts, and the improvement we ought to make of it a sermon occasioned by the late extreme cold weather, preached in it to his neighbours, and now thought fit to be made more public, for the common good / by Benj. Camfield ...</title>
+                  <author>Camfield, Benjamin, 1638-1693.</author>
+               </titleStmt>
+               <extent>[6], 28, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXLVII, 15-18 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101410:1"/>
+            <p>OF God Almighty's Providence Both in the SENDING and DISSOLVING <hi>Great Snows &amp; Froſts,</hi> AND The Improvement, we ought to make, of it. A SERMON, Occaſioned by the Late Extreme Cold Weather, Preached <hi>in It to his Neighbours,</hi> And now thought fit to be made <hi>more Public,</hi> for the <hi>Common Good.</hi>
+            </p>
+            <p>By <hi>Benj. Camfield,</hi> Rector of <hi>Aileſton</hi> near <hi>Leiceſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Chiſwell</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in <hi>St. Paul</hi>'s Church-yard. 1684.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101410:2"/>
+            <pb facs="tcp:101410:2"/>
+            <head>To the READER.</head>
+            <p>
+               <hi>ST. Paul</hi> speaks of a <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſomewhat conſiderable that may be known of God from the Book of his Creatures,</hi> and this with <hi>a competent degree of evidence and ſatisfaction,</hi> [<gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] where men have <hi>nothing elſe but the light of common Reaſon to guide them.</hi> 
+               <q rend="inline">For, <hi>ſaith he,</hi> the inviſible things of him from the Creation of the World are clearly ſeen, being understood [or <hi>conſidered</hi>] by the things that are made, even his eternal Power and God-head; ſo that they [<hi>the very Heathens</hi>] are without excuſe: Becauſe that, when they knew God, [or, <hi>by this means might have known him</hi>] they glo<g ref="char:EOLhyphen"/>rified him not as God, neither were thankful,</q> 
+               <hi>Rom. i. xix—xxi.</hi> The <hi>Author therefore of the Book of Wiſdom, deſervedly proclaims:</hi> 
+               <q rend="inline">Surely vain are all men by nature, who are ignorant of God, and could not out of the good things, that are ſeen, know him that is; neither by con<g ref="char:EOLhyphen"/>ſidering the works, did acknowledge the Work<g ref="char:EOLhyphen"/>maſter,</q> 
+               <hi>Chap. xiii. i.</hi> That is, <hi>as he proceeds,</hi> who did not <hi>collect and infer his ſurpaſſing Beauty, Power and Goodneſs, from the vi<g ref="char:EOLhyphen"/>ſible Prints and Images of thoſe Divine Excel<g ref="char:EOLhyphen"/>lencies to be found in the Univerſe.</hi>
+            </p>
+            <p>
+               <q rend="inline">He, <hi>ſaith the Son of Sirach,</hi> hath garniſhed
+<pb facs="tcp:101410:3"/> the excellent works of his wiſdom: [<gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not only <hi>ordered</hi> but <hi>adorned</hi> them; whence the <hi>world</hi> is called <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] And he is from ever<g ref="char:EOLhyphen"/>laſting to everlaſting; unto him may nothing be ad<g ref="char:EOLhyphen"/>ded, neither can he be diminiſhed: [<hi>Cui ſummum &amp; proprium eſt, ſemper id eſſe, quod eſt.</hi>] And he hath no need of any Counſeller. O how deſi<g ref="char:EOLhyphen"/>rable are all his works, and that a man may ſee, even to a spark! [<hi>The leaſt of them affording ſome glimmerings of his Majeſty.</hi>] All theſe things live, [that is, <hi>exert their reſpective powers</hi>] and remain for ever for all uſes; [<hi>whereto he hath appointed them</hi>] And they are all obedient [viz. to <hi>his Commands,</hi> or the <hi>Laws which he hath ſet them, Pſ. cxix. xci.</hi>] <hi>Eccleſ. xlii. xxi—xxiii.</hi>
+               </q>
+            </p>
+            <p>And this he proſecutes <hi>more particularly, Ch. xliii.</hi> But I will only take notice of <hi>what may ſerve to illuſtrate the following Text and Diſ<g ref="char:EOLhyphen"/>courſe, Ver. xiii. to xxii.</hi>
+            </p>
+            <p>
+               <q rend="inline">By his commandment he maketh the Snow to fall apace [<hi>Unget, accelerat nivem</hi>] And ſend<g ref="char:EOLhyphen"/>eth ſwiftly the lightnings of his judgment</q> [that is, <hi>by which he is wont ſometimes to execute his judgments,</hi> when he <hi>makes the Creature his weapon for the revenge of his enemies,</hi> &amp;c. See <hi>Wiſd. v. xvii, xx, xxii—xvi, xxiv.</hi>]</p>
+            <p>
+               <q rend="inline">Through this [or, <hi>for this ſame end and purpoſe.</hi> 
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ejuſdem judicii exe<g ref="char:EOLhyphen"/>quendi
+<pb facs="tcp:101410:3"/> causâ</hi>] the Treaſures [or <hi>Magazines of Heaven</hi>] are opened; and Clouds [<hi>charged as he pleaſeth</hi>] flie forth as Fowls [<hi>on the wing, with ſpeed,</hi> Iſa. lx. viii.]</q> 
+               <hi>Madidis Notus evolat alis.</hi>]</p>
+            <p>
+               <q rend="inline">By his great power he maketh the Clouds firm; [<hi>Condenſat Nubes</hi>] And the Hail-ſtones are broken ſmall.</q> [<hi>As ſo many fragments or ſhivers of a pellucid Rock of Chryſtal.</hi>]</p>
+            <p>
+               <q rend="inline">
+                  <note n="*" place="margin">Here fol<g ref="char:EOLhyphen"/>low the <hi>Or<g ref="char:EOLhyphen"/>der of the beſt Copies;</hi> for in <hi>our Tranſlation</hi> there is a <hi>Tranſpoſiti<g ref="char:EOLhyphen"/>on.</hi> See <hi>Grot.</hi>
+                  </note>The noiſe of the Thunder maketh the earth to tremble,</q> [or <hi>groan as a woman in her travail,</hi> ſaith the <hi>Margin;</hi> puts <hi>Nature</hi> as it were into an <hi>agony and labour</hi> by the <hi>fright</hi> of it. See Pſal. xxix. viii, ix.]</p>
+            <p>
+               <q rend="inline">At his ſight the mountains are ſhaken: [Pſal. civ. xxxii.] And at his will the South-wind blow<g ref="char:EOLhyphen"/>eth; ſo doth the northern ſtorm, and the whirlwind.</q>
+            </p>
+            <p>
+               <q rend="inline">As Birds flying he ſcattereth the [<hi>feather'd</hi>] Snow; And the falling down thereof, is as the lighting of Graſhoppers,</q> [or <hi>Locuſts;</hi> which come in <hi>full and continued Swarms or Bands,</hi> as it were, each one <hi>gently ſetling</hi> upon the ground. See Prov. xxx. xxvii. Joel ii.]</p>
+            <p>
+               <q rend="inline">The eye marvelleth at the beauty of the white<g ref="char:EOLhyphen"/>neſs thereof; [<hi>which is ſuch, as dazleth us to look intenſely upon it.</hi>] And the heart is aſtoniſhed at the raining of it.</q>
+            </p>
+            <p>
+               <q rend="inline">The Hoar-froſt alſo as Salt he poureth on the earth; And being congealed, it lieth on the top of
+<pb facs="tcp:101410:4"/> ſharp ſtakes,</q> [Or, <hi>it is, as the point of ſharp ſtakes,</hi> ſaith the <hi>Margin.</hi> Quaſi quaedam <hi>faſti<g ref="char:EOLhyphen"/>gia palorum.</hi> Velut <hi>Aculeorum cuſpis.</hi> We call them, <hi>Swords and Daggers.</hi>]</p>
+            <p>
+               <q rend="inline">When the cold North-wind bloweth [<hi>Aquilo<g ref="char:EOLhyphen"/>nis Horrida Flabra, as the Poets expreſs it.</hi>] And the water is congealed into Ice, it abideth upon every gathering together of water; [that is, the <hi>Rivers, as well as ſtanding Pools.</hi>] And cloatheth the water, as with a Breaſt-plate, [or, <hi>Coat of Mail.</hi>]</q>
+            </p>
+            <p>
+               <q rend="inline">It devoureth the mountains, and burneth the wil<g ref="char:EOLhyphen"/>derneſs, and conſumeth the graſs, as fire;</q> [that is, it <hi>dries up the juice, and waſts the verdure of every green thing.</hi> Penetrabile Frigus <hi>adurit. Torret</hi> hiems, <hi>ſay the Poets.</hi>]</p>
+            <p>
+               <q rend="inline">A preſent Remedy of all, is a Mist coming ſpee<g ref="char:EOLhyphen"/>dily; a dew coming after heat, [or, <hi>upon heat</hi>] refreſheth;</q> [that is, <hi>the warm Spring by its Miſts and Dews relieves us after a tedious Winter.</hi>]</p>
+            <p>
+               <hi>Thus far the Son of Sirach.</hi>
+            </p>
+            <p>And, had this come to mind, <hi>before I had tran<g ref="char:EOLhyphen"/>ſcribed the enſuing Sermon,</hi> I would have alotted <hi>another place for it:</hi> But, ſince it <hi>did not,</hi> have thought good however to <hi>recommend it here to the Reader's peruſal:</hi> And that is all the <hi>Enter<g ref="char:EOLhyphen"/>tainment</hi> or <hi>Trouble</hi> I deſign to give him.</p>
+            <closer>
+               <signed>B. C.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:101410:4"/>
+            <head>OF GOD ALMIGHTY'S PROVIDENCE Both in The <hi>Sending</hi> &amp; <hi>Diſſolving Great Snows and Froſts;</hi> AND The <hi>Improvement,</hi> we ought to make, of it, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>Pſalm CXLVII. xv, xvi, xvii, xviii.</bibl>
+                  <p>He ſendeth forth his commandment upon earth, and his word runneth very ſwiftly.</p>
+                  <p>He giveth ſnow like wool, and ſcattereth the Hoar-froſt like aſhes.</p>
+                  <p>He caſteth forth his Ice like morſels. Who is able to abide his Froſt, [or cold]?</p>
+                  <p>He ſendeth out his word, and melteth them: He bloweth with his wind, and the waters flow.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words are <hi>a most elegant Deſcription of God Almighty's providence</hi> in the Go<g ref="char:EOLhyphen"/>vernment of the world, and diſpoſing of the <hi>ſeaſons</hi> of it, eſpecially in the <hi>ſend<g ref="char:EOLhyphen"/>ing</hi> and <hi>Removing of Great Froſts and Snows.</hi>
+            </p>
+            <p>The <hi>Pſalmist</hi> had touched, <hi>immediately before,</hi> upon
+<pb n="2" facs="tcp:101410:5" rendition="simple:additions"/> the <hi>Bleſſing of Peace and Plenty, which God had vouch<g ref="char:EOLhyphen"/>ſafed his</hi> Jeruſalem. <q rend="inline">He maketh Peace in thy borders, and filleth thee with the Flower of Wheat; or the <hi>fineſt of the wheat.</hi>]</q> The <hi>Hebrew</hi> hath it, The <hi>Fatneſs of Wheat.</hi> And from hence He naturally pro<g ref="char:EOLhyphen"/>ceeds to the <hi>more Immediate Cauſes of this fruitfulneſs and plenty,</hi> 
+               <note n="*" place="margin">[*See Pſal. CIV. xiii, xiv, xv.]</note> (The <hi>Clouds that drop fatneſs</hi>) but all of them <hi>directed by the hand of Heaven,</hi> all of them de<g ref="char:EOLhyphen"/>pending upon the <hi>divine Command and Influence.</hi> 
+               <q rend="inline">He ſendeth forth his Commandment upon Earth, and his Word runneth very ſwiftly, <hi>&amp;c.</hi>
+               </q> [<hi>Summâ cele<g ref="char:EOLhyphen"/>ritate perſiciuntur, quae jubet.</hi>] <note place="margin">Vatablus.</note> Upon <hi>his bidding</hi> it is, that the Earth yieldeth her increaſe, and <hi>Nature,</hi> with <hi>all her Auxiliaries,</hi> is at his pow'rful beck.</p>
+            <p>In the <hi>Text it ſelf</hi> we have, 1. <hi>A general Acknow<g ref="char:EOLhyphen"/>ledgment of God's over-ruling Providence.</hi> 
+               <q rend="inline">He ſend<g ref="char:EOLhyphen"/>eth forth his Commandment upon earth, and his word runneth very ſwiftly.</q> And 2. <hi>A particular Illuſtration or Exemplification of it,</hi> by way of <hi>Inſtance,</hi> both in the <hi>Giving and Removing great Snows and Frosts, with Hail and Ice.</hi> 
+               <q rend="inline">He giveth Snow like wool; and ſcattereth the Hoar-froſt like Aſhes. He caſteth forth his Ice like Morſels. Who is able to abide his Froſt? [or, <hi>who can stand before his cold?</hi>] He ſendeth out his word, and melteth them: He bloweth with his wind; [or, <hi>cauſeth his wind to blow</hi>] and the waters flow.</q>
+            </p>
+            <p n="1">(1.) I ſay, <hi>A General acknowledgment of Gods over<g ref="char:EOLhyphen"/>ruling Providence throughout the world.</hi> 
+               <q rend="inline">He ſendeth forth his commandment upon earth, and his word runneth very ſwiftly.</q> [<hi>Mandat tantum, &amp; statim ex<g ref="char:EOLhyphen"/>ecutio ſequitur.</hi>] <note place="margin">Scultetus.</note> He only <hi>calls,</hi> and all things anſwer him; he <hi>commands,</hi> and the <hi>Execution</hi> follows upon it. Thus, <hi>at first,</hi> 
+               <q rend="inline">by the word of the Lord were the Heavens made, and all the hoſt of them by the
+<pb n="3" facs="tcp:101410:5"/> breath of his mouth. He gathereth the waters of the Sea together, as an heap, and layeth up the Deep in Store-houſes, [<hi>viz.</hi> by the <hi>ſame word of his mouth.</hi>] Let all the Earth fear the Lord, let all the Inhabi<g ref="char:EOLhyphen"/>tants of the World ſtand in awe of him. For he ſpake, and it was done; He commanded, and it ſtood faſt,</q> 
+               <hi>Pſal. XXXIII. vi—x.</hi> [ſee <hi>Geneſ. I.</hi>] His Al<g ref="char:EOLhyphen"/>mighty <hi>Fiat</hi> produced all things out of <hi>nothing.</hi> And by the <hi>ſame</hi> are they ſtill <hi>preſerved.</hi> 
+               <q rend="inline">Upholding all things by the word of his power,</q> ſaith the <hi>Apoſtle, Hebr. I.iii.</hi> and ſo are they alſo <hi>Ruled and Governed,</hi> as here we have it. <q rend="inline">He ſendeth forth his commandment upon earth, and his word runneth very ſwiftly.</q> This <hi>ſending forth his commandment,</hi> is nothing elſe but that <hi>hidden yet effectual way, whereby he orders all things.</hi> 
+               <note place="margin">Calvin.</note> He no ſooner <hi>ſpeaks,</hi> gives out the <hi>word of or<g ref="char:EOLhyphen"/>der,</hi> iſſues out his <hi>Warrant</hi> and <hi>Commiſſion,</hi> but [<hi>praeſtò ad parendum concurrunt omnia</hi>] all things are <hi>at hand</hi> upon it, ready to obey him, yea, <hi>quick and nimble in their obſervance of him.</hi> 
+               <q rend="inline">His word runneth very ſwiftly.</q> [<hi>Verbo ſolo, quicquid vult, efficere potest.</hi>] <note place="margin">Munſter.</note> By his <hi>word alone</hi> he can do every where, whatſoever he will.</p>
+            <p n="2">And this (2.) he goes on to evidence and illuſtrate <hi>by examples;</hi> namely, by his ſudden <hi>ſending of Great Snows and Froſts, with Hail and Ice,</hi> and as ſudden <hi>diſſolving of them again,</hi> when he pleaſeth. In the expreſſing of which he is very <hi>Poetical.</hi> We will take the <hi>Particulars,</hi> as they lie.</p>
+            <p n="1">(i.) <q rend="inline">He giveth Snow like Wool.]</q> 
+               <note place="margin">[Nix aemula lanae. Vellera nivis. <hi>Virg.</hi>
+               </note> He turns the moiſt vapours of the Air into <hi>white flakes of Snow,</hi> which deſcend <hi>ſilently,</hi> and within a while lie a great thickneſs, as a <hi>Fleece of wool</hi> on the ground, wherewith it is no leſs <hi>warmly clad, and nouriſhed,</hi> and <hi>defended from the biting winds,</hi> than the <hi>ſheep is by its wool,</hi> or <hi>our bo<g ref="char:EOLhyphen"/>dies
+<pb n="4" facs="tcp:101410:6" rendition="simple:additions"/> by garments made of it.</hi> Thus <hi>Snow</hi> hath, not only the <hi>colour</hi> and <hi>likeneſs,</hi> but the <hi>defenſive and com<g ref="char:EOLhyphen"/>forting properties of wool.</hi> It is not an injury, but a <hi>benefit</hi> to the Earth: And <hi>Rabbi Arama</hi> ſaid, [<hi>Dies unus nivium prodest plus, quam quinque Dies pluviae.</hi>] <note place="margin">Viccars De<g ref="char:EOLhyphen"/>capla, in loc.]</note> 
+               <hi>One day of Snow doth more good, than Five of Rain.</hi>
+            </p>
+            <p n="2">(ii.) <q rend="inline">He ſcattereth the Hoar-froſt like aſhes.]</q> [<hi>Inſtar Cineris</hi>] that is, as ſome of the <hi>Hebrew Do<g ref="char:EOLhyphen"/>ctors</hi> comment upon it, [<hi>Parum hic, parum illic.</hi>] <note place="margin">Ibid.</note> 
+               <hi>Here a little, and there a little;</hi> or, (it may be) <hi>as we do aſhes to dry up ſuperfluous moiſture in wet places.</hi> 
+               <note place="margin">[Vitreâ cum Terra pruinâ Spargitur.]</note> By his word the <hi>Frost</hi> comes, which he <hi>gently strews</hi> upon the ſurface of the Earth.</p>
+            <p n="3">(iii.) <q rend="inline">He caſteth forth his Ice like morſels.</q> [<hi>Tan<g ref="char:EOLhyphen"/>quam Fruſta.</hi>] Some refer it unto <hi>Hail-ſtorms,</hi> q.d. <note place="margin">Dr. <hi>Patrick</hi>'s <hi>Par.</hi>]</note> 
+               <q rend="inline">Sometimes he congeals the moiſt vapours into Ice, which he breaks, as it were, into <hi>bits,</hi> and throws down in a violent Hail.</q> 
+               <note place="margin">[Lapidoſae grandinis im<g ref="char:EOLhyphen"/>ber.]</note> — <hi>Others,</hi> rather to the <hi>Freez<g ref="char:EOLhyphen"/>ing of the earth and waters,</hi> 
+               <note place="margin">Dr. <hi>Hammond</hi>]</note> 
+               <q rend="inline">when the whole Surface is congealed into a firmneſs as ſtrong as <hi>Chryſtal,</hi> able to bear the greateſt weight, and a multitude of pieces of <hi>Ice</hi> are ſcattered on the face of the ground, like <hi>morſels of bread,</hi> without any appearance of <hi>moiſture</hi> in them:</q> which the <hi>Poets</hi> alſo are wont to expreſs after a <hi>like</hi> manner, ſpeaking in Great Froſts of <hi>Drinking morſels of Wine, ſwallowing it down by Gobbets:</hi> 
+               <note place="margin">[Nec hauſta meri, ſed data <hi>fruſta</hi> bibunt. <hi>Ovid.</hi>]</note> And <hi>whole Rivers ſtop'd in their courſe,</hi> 
+               <note place="margin">Glacie curſus fraenantur a<g ref="char:EOLhyphen"/>quarum.]</note> as a <hi>Horſe by his Reins;</hi> and <hi>ſtanding with a thick Crust of hard Ice over them.</hi> 
+               <note place="margin">Stabant jam Flumina duro <hi>incruſtata</hi> ge<g ref="char:EOLhyphen"/>lu.] <hi>Id.</hi>
+               </note> Nay, and <hi>High-ways made by this means for Men and Horſes, and Carriages on the Deeps,</hi> and <hi>ſtanding Bridges erected, as it were, over the Great Waters.</hi> As <hi>Ovid</hi> phraſeth it, ſpeaking of the <hi>Cold upon Pontus.</hi>
+               <pb n="5" facs="tcp:101410:6" rendition="simple:additions"/>
+               <q>
+                  <l>[Quáque <hi>rates</hi> ierant, <hi>pedibus</hi> nunc itur, &amp; undas</l>
+                  <l>Frigore concretas <g ref="char:V">Ʋ</g>ngula pulſat <hi>Equi.</hi>
+                  </l>
+                  <l>Perque <hi>novos pontes,</hi> ſubter labentibus undis</l>
+                  <l>Ducunt Sarmatici barbara <hi>plauſtra</hi> boves.]</l>
+               </q>
+            </p>
+            <p n="4">(iv.) It is added, <q rend="inline">who is able to abide his Froſt?</q> or, <q rend="inline">who can ſtand before his Cold?]</q> ſuch is ſome<g ref="char:EOLhyphen"/>times the <hi>ſeverity of this pinching weather;</hi> ſuch the <hi>extremity of the cold,</hi> that neither <hi>Man</hi> nor <hi>Beast</hi> on the Earth, nor <hi>Birds</hi> in the Air, nor Fiſhes in the Ri<g ref="char:EOLhyphen"/>vers are able to reſiſt the Force of it, or long to ſupport and endure under its aſſaults. — It ſtupifies and <hi>benumbs all our ſenſes,</hi> 
+               <note place="margin">[Non tractabi<g ref="char:EOLhyphen"/>le Frigus.]</note> and <hi>stagnates our blood,</hi> 
+               <note place="margin">[Torpetque vinctus frigi<g ref="char:EOLhyphen"/>do ſanguis ge<g ref="char:EOLhyphen"/>lu. <hi>&amp;c.</hi>]</note> and turns us al<g ref="char:EOLhyphen"/>moſt into ſo many <hi>petrified monuments of its rigorous fury.</hi> It <hi>cuts off Intercourſe</hi> between Country and Country; <hi>blocks up the Merchant and Mariners in the Haven,</hi> or (which is <hi>worſe</hi>) <hi>starves them abroad at Sea;</hi> It <hi>confines the Traveller</hi> from his journeys: It <hi>clogs the Mills,</hi> that they cannot <hi>Grind our Corn,</hi> and ſo produceth a kind of <hi>Dearth in the midſt of abun<g ref="char:EOLhyphen"/>dance;</hi> Nay, it <hi>converts our very Bread, and Meat, and Drink, into Stones:</hi> It retains the buſie <hi>Husbandman within from his Field-<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ork,</hi> and makes the very <hi>ſavage Creatures keep to their Hideing places.</hi> — And, though the more <hi>Northern Climates</hi> are uſually <hi>more ſenſible of this,</hi> as the Inhabitants of <hi>Ruſſia</hi> and <hi>Muſcovie,</hi> who are put to all the <hi>Art</hi> they have to make <hi>Defenſatives</hi> againſt it, yet, whenſoever God pleaſeth, he can <hi>call it alſo into the most temperate and warm Regions</hi> under Heaven; as we have had <hi>of late ſome conſiderable Feel<g ref="char:EOLhyphen"/>ing of it.</hi>
+            </p>
+            <p>
+               <hi>His hand,</hi> you ſee, is <hi>all along to be owned and ob<g ref="char:EOLhyphen"/>ſerved in theſe things.</hi> 
+               <q rend="inline">He giveth the Snow.</q> 
+               <q rend="inline">He ſcattereth the Hoar-froſt.</q> 
+               <q rend="inline">He caſteth forth his
+<pb n="6" facs="tcp:101410:7" rendition="simple:additions"/> Hail or Ice.</q> And it is <q rend="inline">his Cold too.</q> [<hi>Non fit ex accidente</hi>] as ſome of the <hi>Jewiſh Expoſitors,</hi> not amiſs, gloſs upon it. It comes not by <hi>chance or accident.</hi> It is wholly at his diſpoſing.</p>
+            <p>And, as he <hi>ſends</hi> theſe by his Command, upon what<g ref="char:EOLhyphen"/>ſoever <hi>Errands</hi> he hath for them to diſpatch, ſo he alſo <hi>recalls</hi> them, and <hi>countermands</hi> them at his pleaſure.</p>
+            <p n="5">This therefore (v.) is ſuperadded in the <hi>Cloſe of all;</hi> and <hi>well it is for us, that ſo it is.</hi> 
+               <q rend="inline">He ſendeth out his Word, and melteth them: He bloweth with his wind, [or, <hi>cauſeth his wind to blow</hi>] and the waters flow.</q>
+            </p>
+            <q>
+               <l>
+                  <note place="margin">Buchanan.</note>[Quum libuit, molles glacies <hi>tabeſcit</hi> in undas:</l>
+               <l>Adſpirat <hi>aura mitior,</hi> Rivi fluunt.]</l>
+            </q>
+            <p>To prevent the hurt and miſchief, which might accrue by their <hi>tedious or too long continuance,</hi> when the mo<g ref="char:EOLhyphen"/>tions of Nature have a violent reſtraint upon them by the <hi>Weather,</hi> and both Earth and Waters are <hi>con<g ref="char:EOLhyphen"/>gealed</hi> beyond the power of all <hi>humane means</hi> to diſ<g ref="char:EOLhyphen"/>ſolve them; He <hi>iſſues out another Command,</hi> which as ſuddenly makes a <hi>deſired Thaw,</hi> and by the <hi>warm breath of a Southern Wind</hi> looſens the Waters which were ſo cloſe bound up; <note place="margin">[Solvitur acris hiems frigora niteſcunt Ze<g ref="char:EOLhyphen"/>phyris. <hi>Horat.</hi>]</note> cauſes the <hi>Snow and Froſt and Ice immediately to melt,</hi> and full ſtreams to come down upon the Valleys.</p>
+            <p>Thus he both <hi>ſends</hi> and <hi>recalls</hi> theſe Creatures of his at his own will. And theſe are remarkable <hi>Inſtan<g ref="char:EOLhyphen"/>ces of his ordinary Providence,</hi> common to the whole World, wherein <hi>all men may ſee, how Wiſe and Pow<g ref="char:EOLhyphen"/>erful and Good he is.</hi> There is enough in <hi>theſe</hi> to make him known unto <hi>all men.</hi> If they will but <hi>open their eyes</hi> to take notice of what is frequently done in their view. He ſpeaks unto us all from the <hi>Clouds
+<pb n="7" facs="tcp:101410:7" rendition="simple:additions"/> above,</hi> which he exhales and raiſeth from the Earth and marvellouſly hangs in the Firmament, and diſ<g ref="char:EOLhyphen"/>ſolves into <hi>Rain</hi> or <hi>Dew,</hi> or elſe into <hi>Snow</hi> and <hi>Hail</hi> and <hi>Hoar-froſt,</hi> which are but <hi>Rain</hi> and <hi>Dew</hi> congeal<g ref="char:EOLhyphen"/>ed by the cold Air. <q rend="inline">Who covereth the Heaven with Clouds, who prepareth Rain for the Earth.</q> So the <hi>Pſalmist</hi> had before expreſſed it, <hi>verſ.</hi> viii. and here he repreſents the <hi>ſame Divine Power</hi> turning that Vapour or Rain into <hi>Snow</hi> or <hi>Hail,</hi> or <hi>Hoar froſt</hi> and <hi>Ice,</hi> or Melting and Diſſolving them again by his <hi>Winds.</hi> Thus St. <hi>Paul</hi> and <hi>Barnabas</hi> preach to the Heathens at <hi>Lyſtra, Acts</hi> XIV. xvii. <q rend="inline">He left not him<g ref="char:EOLhyphen"/>ſelf without <hi>witneſs</hi> in that he did good, and gave us Rain from Heaven, and fruitful Seaſons, filling our Hearts with Food and Gladneſs.</q> And ſo the Prophet <hi>Jeremiah</hi> ſpeaks of this Diſpenſation, as a <hi>convictive Testimony of God</hi> unto men, <hi>Ch.</hi> XIV. xxii. <q rend="inline">Are there any among the Vanities (or <hi>Idols</hi>) of the Gentiles, that can give Rain? or can the Hea<g ref="char:EOLhyphen"/>vens (<hi>of themſelves</hi>) give Showres? Art not thou he, O Lord our God? (<hi>the only commander and giver of Rain and Showers</hi>) therefore we will wait upon thee; for thou haſt made all theſe things.</q> To which <hi>ſame purpoſe</hi> he had ſaid alſo in <hi>another</hi> place, <hi>ch.</hi> X. xiii. <q rend="inline">When he (that is <hi>God</hi>) uttereth his voice, there is a multitude of Waters in the Heavens; and he cauſeth the Vapours to aſcend from the ends of the Earth; He maketh Lightnings with Rain, and bringeth forth the Winds out of his Treaſures.</q> — But this comes yet with <hi>a stronger force and convicti<g ref="char:EOLhyphen"/>on</hi> upon us, if unto the <hi>Vapours, Clouds,</hi> and <hi>Rain,</hi> and <hi>Winds,</hi> we add alſo his <hi>Snow,</hi> and <hi>Hail,</hi> and <hi>Frost,</hi> and <hi>Ice,</hi> as the <hi>Pſalmist</hi> here doth; calling upon <hi>them by name</hi> among other of his Creatures <hi>to bleſs and praiſe</hi> him. — <q rend="inline">Hail, and Snow, and Vapour, and ſtor<g ref="char:EOLhyphen"/>my
+<pb n="8" facs="tcp:101410:8"/> Wind, fulfilling his word,</q> 
+               <hi>Pſalm</hi> CXLVIII. viii.</p>
+            <p>And there are <hi>very many remarkable paſſages in the Book of Job to the like effect.</hi> Thus <hi>Eliphaz</hi> there ſpeaks of God, <hi>ch.</hi> v. <q rend="inline">Who doth great things, ſaith he, and unſearchable things without number.</q> — And then the <hi>first</hi> he gives inſtance in is <hi>this,</hi> 
+               <q rend="inline">Who giveth rain upon the Earth, and ſendeth waters upon the Fields,</q> 
+               <hi>Ver.</hi> ix, x. — And <hi>Job</hi> was not to be <hi>taught</hi> this Leſſon. <q rend="inline">He bindeth up the waters in his thick Clouds, <hi>ſaith he,</hi> and the Cloud is not burſt under them.</q> [That is, He keeps them a long time hanging, as it were, in <hi>thoſe baggs,</hi> through which they do not at length <hi>burst all at once,</hi> but diſtill by <hi>drops</hi> (<hi>guttatim,</hi> as through a <hi>Cieve</hi> or <hi>Cullender</hi>) to moiſten the Earth in due ſeaſon] <hi>Chap.</hi> XXVI. viii. And <hi>again,</hi> 
+               <q rend="inline">He looketh to the ends of the Earth, and ſeeth under the whole Heaven, to make the weight for the winds, and he weigheth the waters by meaſure; when he made a Decree for the rain, and a way for the light<g ref="char:EOLhyphen"/>nings of thunder.</q> [That is, Adjuſting all their <hi>pro<g ref="char:EOLhyphen"/>portions,</hi> and appointing the courſe they ſhall take.] <hi>Chap.</hi> XXVIII. xxiv, xxv. — And yet <hi>this</hi> is that, which his friend <hi>Elihu</hi> afterwards <hi>more particularly</hi> recom<g ref="char:EOLhyphen"/>mends to his due obſervance, <hi>Chap.</hi> XXXVI. xxiv, <hi>&amp;c.</hi> 
+               <q rend="inline">Remember, that thou magnify his work, <hi>ſaith he,</hi> which men behold. Every men may ſee it; men may behold it afar off. Behold, God is great, and we know him not; neither can the number of his year be ſearched out. For he maketh ſmall the drops of water; they pour down rain according to the va<g ref="char:EOLhyphen"/>pour thereof; which the Clouds do drop and diſtill upon men abundantly. Alſo can any underſtand the ſpreadings (or <hi>poiſings</hi>) [or <hi>balancings, Chap.</hi> XXXVII. xvi.] of the Clouds, or the n<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſe of his Tabernacle?</q> [That <hi>Thunder</hi> he means, which pro<g ref="char:EOLhyphen"/>claims
+<pb n="9" facs="tcp:101410:8"/> him <hi>to dwell above;</hi> of which he goes on to treat more at large in the <hi>beginning of the next Cha<g ref="char:EOLhyphen"/>pter.</hi>] — And then he <hi>adds,</hi> 
+               <q rend="inline">Great things doth he, which we cannot comprehend; for he ſaith unto the ſnow, Be thou upon the earth; likewiſe to the ſmall rain, and to the great rain of his ſtrength,</q> 
+               <hi>Ch.</hi> XXXVII. v, vi. Upon which it <hi>follows,</hi> 
+               <q rend="inline">He ſealeth up the hand of every man, that all men may know his works,</q> 
+               <hi>Verſe</hi> vii. [which may very well be ex<g ref="char:EOLhyphen"/>pounded to <hi>this ſenſe,</hi> That by his Snow and Rain he ſtops the Labour of thoſe whoſe buſineſs is <hi>abroad in the Fields,</hi> and makes them know, that he diſpoſeth of the Weather as he pleaſeth. <hi>Agreeably whereunto he adds. ver</hi> viii. <q rend="inline">Then the beaſts alſo go into dens, and remain in their places.]</q> — Again <hi>ſaith he, ver.</hi> x. <hi>&amp;c.</hi> 
+               <q rend="inline">Out of the ſouth cometh the whirl-wind, and cold out of the north.</q> [Namely by <hi>his order and appoint<g ref="char:EOLhyphen"/>ment onely.</hi>] <q rend="inline">By the Breath of God Froſt is given, and the breadth of the Waters is ſtraitned,</q> [that is, They are <hi>pent and bound up</hi> ſo faſt, that they cannot flow] <q rend="inline">Alſo by waterings he weareth the thick Cloud, he ſcattereth his bright Cloud, and it is turned about by his Counſels, that they may do whatſoever he <hi>com<g ref="char:EOLhyphen"/>mandeth</hi> them upon the face of the world in the earth. He cauſeth it to come, whether for <hi>correcti<g ref="char:EOLhyphen"/>on</hi> or <hi>for his land,</hi> or <hi>for mercy</hi>
+               </q> [that is, either <hi>to ſcourge our ſins with plagues,</hi> or <hi>produce fruitfulneſs for the neceſſary ſuſtenance of man and beaſt,</hi> or to <hi>re<g ref="char:EOLhyphen"/>ward the obedience of his ſervants with ſome extraordi<g ref="char:EOLhyphen"/>nary plenty and very healthful ſeaſons.</hi>] <note place="margin">See Dr. <hi>Pa<g ref="char:EOLhyphen"/>trick's Para<g ref="char:EOLhyphen"/>phraſe.</hi>
+               </note> — And <hi>God himſelf,</hi> in the XXXVIII. <hi>Chapter,</hi> approves of <hi>this kind of diſcourſe,</hi> and takes the very <hi>ſame method to give Job a ſenſible repreſentation of his own tremendous Majeſty, verſe</hi> xxii. <hi>&amp;c.</hi> 
+               <q rend="inline">Haſt thou enter'd, <hi>ſaith he,</hi> into the treaſures of the Snow? or, haſt thou ſeen the trea<g ref="char:EOLhyphen"/>ſures
+<pb n="10" facs="tcp:101410:9"/> of the Hail, which I have reſerved againſt the time of trouble, againſt the <hi>day of battel and war</hi>
+                  <note n="*" place="margin">[See <hi>Exod. IX. xviii,</hi> &amp;c.]</note>?</q> — <q rend="inline">Hath the Rain a Father? Or who hath begot<g ref="char:EOLhyphen"/>ten the Drops of the Dew? Out of whoſe womb came the Ice? And the Hoar-froſt of Heav'n who hath gender'd it? The waters are hid as with a ſtone; and the face of the deep is frozen.</q> — And <hi>again, Verſe xxxiii,</hi> &amp;c. <q rend="inline">Knoweſt thou the Ordinances of Heaven? Canſt thou ſet the Dominion thereof in the Earth? Canſt thou lift up thy voice to the clouds, that abundance of waters may cover thee? Canſt thou ſend lightnings, that they may go and ſay, Here we are;]</q> viz. <hi>ready at thy beck and call,</hi> as they are always at <hi>mine.</hi> — </p>
+            <p>All <hi>theſe Meteors</hi> (as we ſtile them) <hi>go and come at God's bidding onely.</hi> 
+               <q rend="inline">He ſendeth forth his command<g ref="char:EOLhyphen"/>ment upon earth; and his word runneth very ſwift<g ref="char:EOLhyphen"/>ly.</q> — Every Creature <hi>gives the word with all expe<g ref="char:EOLhyphen"/>dition to its next fellow.</hi> And <hi>again,</hi> 
+               <q rend="inline">He ſendeth out his Almighty word, and melteth them, <hi>&amp;c.</hi>
+               </q> He <hi>commands the Clouds, that they rain;</hi> and <hi>that they rain not</hi> too, <hi>Iſa. V. vi.</hi> 
+               <q rend="inline">He with-holdeth the waters, and they dry up; Alſo he ſendeth them out, and they overturn the Earth,</q> 
+               <hi>Job XII. xv.</hi>
+            </p>
+            <p>But I paſs on now to <hi>what I principally aim at,</hi> which is, to give you thoſe <hi>uſeful and important Leſſons, we are every one to take out from this matter of common know<g ref="char:EOLhyphen"/>ledge and obſervance.</hi>
+            </p>
+            <p n="1">I. Then from <hi>hence</hi> we learn, <hi>Not to attribute theſe notable Effects of God's Providence to Chance or Blind Fortune;</hi> nor yet <hi>ſo to aſcribe them to any natural Cau<g ref="char:EOLhyphen"/>ſes, as to leave God out of our Philoſophy.</hi> 'Tis certain<g ref="char:EOLhyphen"/>ly prepoſterous, vain and wicked ſo to do; for all <hi>Se<g ref="char:EOLhyphen"/>cond Cauſes</hi> neceſſarily ſuppoſe the <hi>First,</hi> and depend upon him in all their motions. The whole link of Na<g ref="char:EOLhyphen"/>ture's
+<pb n="11" facs="tcp:101410:9"/> Chain of Cauſes and Operations is bound to <hi>his Throne,</hi> who gives influence, and ſets Rules and Mea<g ref="char:EOLhyphen"/>ſures to them all. Nay, I will add, there is <hi>no Reaſon<g ref="char:EOLhyphen"/>able account at all to be given of any of theſe Things,</hi> which we daily converſe with, ſee, and behold, (<hi>no ſolving of theſe ordinary Phoenomena</hi>) without recourſe had unto <hi>God as chief and principal.</hi>
+            </p>
+            <p>And <hi>ſtrange it is,</hi> that ſo great a part of the World ſhould be yet <hi>ſtupid</hi> amidſt ſo many miraculous <hi>Teſtimo<g ref="char:EOLhyphen"/>nies of the Divine Being and Preſidency.</hi> Whereas, we ought certainly, as <hi>Elihu exhorteth Job,</hi> to <q rend="inline">ſtand ſtill, and <hi>conſider</hi> the wondrous works of God,</q> 
+               <hi>Ch. XXXVII. xiv.</hi> and to <hi>magnifie,</hi> praiſe, and adore him, in and for them all, <hi>Chap. XXXVI. xxiv.</hi> We ſhould cry out with the <hi>Pſalmist,</hi> 
+               <q rend="inline">O Lord our Governour, how excellent is thy Name in all the world!</q> 
+               <hi>Pſal. VIII.</hi> And <hi>again,</hi> 
+               <q rend="inline">O Lord, how manifold are thy works! In wiſdom haſt thou made them all,</q> 
+               <hi>Pſal. CIV.</hi> And <hi>yet again,</hi> 
+               <q rend="inline">O Lord, how glorious are thy works! Thy thoughts are very deep. An unwiſe man doth not well conſider this, and a fool doth not underſtand it,</q> 
+               <hi>Pſal. XCII. v, vi.</hi> Therefore are they <hi>all call'd upon to praiſe God,</hi> becauſe they afford us ſo much <hi>matter, occaſion, and motive</hi> ſo to do continually. They are the <hi>ſtanding and univerſal witneſſes of his infinite Power, Wiſdom and Goodneſs</hi> in the world: They are the <hi>natural Preachers of Divinity,</hi> whoſe voice is <hi>every where to be heard,</hi> declaring the <hi>glory of God,</hi> and ſhew<g ref="char:EOLhyphen"/>ing <hi>his handy work,</hi> as the <hi>Pſalmist</hi> ſpeaks particularly of the <hi>Heavens and Firmament, with the ſtars of light, Pſal. XIX.</hi> 
+               <q rend="inline">There is neither Speech nor Language, but their Voice is heard among them; Their ſound is gone out to all Lands, and their words to the ends of the world.</q> We may ſay of <hi>them</hi> therefore, <q rend="inline">God gave the Word; great was the company of Preachers,</q>
+               <pb n="12" facs="tcp:101410:10" rendition="simple:additions"/> 
+               <hi>Pſal. lxviii.</hi> And, among the <hi>other</hi> works of God, we call more particularly, in the <hi>Benedicite,</hi> to <hi>theſe Me<g ref="char:EOLhyphen"/>teors,</hi> to bleſs and praiſe, and magnifie him for ever. <q rend="inline">O ye <hi>ſhowrs and dews!</hi>
+               </q> — <q rend="inline">O ye <hi>winds of God!</hi>
+               </q> — <q rend="inline">O ye <hi>Winter and Summer!</hi>
+               </q> — <q rend="inline">O ye <hi>Froſts and Cold!</hi>
+               </q> — <q rend="inline">O ye <hi>Ice and Snow!</hi> Bleſs ye the Lord, praiſe him and magnifie him for ever.</q> Which kind of language (by way of <hi>Addreſs to inſenſible Creatures</hi>) whoever are offended at, muſt <hi>first blame the Holy Penman,</hi> who ſet the Copy of it, <hi>Pſal. Clxviii. viii.</hi> as I <hi>before</hi> quoted it; And <hi>again, Pſal. Ciii ult.</hi> 
+               <q rend="inline">O ſpeak good of the Lord all ye works of his in all places of his Dominion!</q>
+            </p>
+            <p>We ſee, (as <hi>Clarius notes upon the Text</hi>) what <hi>occa<g ref="char:EOLhyphen"/>ſions</hi> devout and pious men take of praiſing God; and yet blockiſh and ungrateful worldlings, amidſt all <hi>this plenty</hi> of Inſtances, can think of <hi>nothing</hi> to extort and exerciſe their Religion and Thankfulneſs.</p>
+            <p n="2">II. We learn from <hi>hence, not to murmur and com<g ref="char:EOLhyphen"/>plain, or Repine at whatſoever comes to paſs;</hi> for, in ſo doing, we <hi>challenge God fooliſhly;</hi> 
+               <note n="*" place="margin">[*Job I. xxii.]</note> or <hi>Impute Folly and weakneſs to him.</hi> We <hi>Blaſpheme his Soveraignty, and call his Wiſdom, and Power, and Goodneſs into que<g ref="char:EOLhyphen"/>ſtion.</hi>
+            </p>
+            <p>And yet <hi>This</hi> is the Fault, which <hi>querulous</hi> mortals are, every where almoſt, too prone unto. <q rend="inline">If the weather be <hi>hot,</hi> ſaith <hi>Sabrian,</hi> we complain of <hi>Drought;</hi> if <hi>Rainy,</hi> of <hi>Deluge</hi> and <hi>inundation;</hi> If the year be <hi>
+                     <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>fruitful,</hi> of <hi>Dearth and Scarcity;</hi> If <hi>fruitful,</hi> of <hi>Cheapneſs.</hi>
+               </q> 
+               <note place="margin">De Gub. Dei.</note> — And ſo, If it be <hi>cold and piercing,</hi> of <hi>Bit<g ref="char:EOLhyphen"/>ter Blaſts and Winds,</hi> &amp;c. — Every one <hi>ſo acts and ſpeaks,</hi> as if he himſelf could <hi>order things better than they are.</hi>
+            </p>
+            <p>But herein we do only betray our <hi>own Ignorance and Raſhneſs, ſottiſhneſs and impiety.</hi> We judge of Things
+<pb n="13" facs="tcp:101410:10" rendition="simple:additions"/> 
+               <hi>falſly,</hi> by their <hi>preſent appearance, and out-ſide only,</hi> and not by that <hi>Reference or Relation which one Thing hath unto another,</hi> and <hi>all have as parts, to the Good and Be<g ref="char:EOLhyphen"/>nefit of the whole.</hi>
+            </p>
+            <p>We would, in ſome <hi>odd</hi> moods, have <hi>no Winter,</hi> or the <hi>leaſt that may be of it;</hi> and ſo ſhould have but <hi>barren and unhealthful Springs and Summers too.</hi> As the <hi>Heathen Pliny</hi> ſaid wiſely, <q rend="inline">He who prays for none but <hi>warm and ſerene Winters</hi> [Non pro Arboribus vo<g ref="char:EOLhyphen"/>ta facit] makes <hi>no Good wiſhes for the Trees:</hi>
+               </q> no, nor the <hi>Fruits</hi> of the Earth, or the <hi>Inhabitants</hi> of it either.</p>
+            <p>Could we once <hi>ſee</hi> it, we are infinitely better under the Conduct and Government of <hi>God's Providence,</hi> than we could poſſibly be at our <hi>own or other mens choice.</hi>
+            </p>
+            <p n="3">III. We Learn from <hi>hence, to be deeply humbled in the ſenſe of our own Ignorance of God Almighty's works,</hi> and <hi>That Infinite wiſdom and power, whereby they are contrived and managed.</hi> The more we diſcern of <hi>God's Majesty in them,</hi> the more we ſhall ſee alſo of <hi>our own vileneſs and imperfection;</hi> and how <hi>unreaſona<g ref="char:EOLhyphen"/>ble</hi> it is, for us to <hi>take upon our ſelves peremptorily to de<g ref="char:EOLhyphen"/>termine of them,</hi> which are all beyond our Graſp and comprehenſion. When <hi>Job</hi> had ſpoken <hi>ſundry Great Things of God,</hi> he adds, <q rend="inline">Theſe are parts of his ways: But how little a portion is heard of him; but the Thunder of his power who can underſtand?</q> 
+               <hi>chap. xxvi. xiv.</hi> q.d. Theſe are but <hi>a ſmall parcel of his works.</hi> For alas! It is <hi>very little indeed,</hi> that ſuch <hi>as we,</hi> can underſtand of him; but the <hi>utmost Force of his power is quite out of our ken.</hi>
+            </p>
+            <p>But then, if we are <hi>poſed in theſe vulgar Things,</hi> which every were affect our Senſes, how <hi>abſurd and
+<pb n="14" facs="tcp:101410:11"/> preſumptuous</hi> is it for us to <hi>pry boldly into more hidden myſteries,</hi> or take upon our ſelves to <hi>contradict any of the Divine Revelations concerning them!</hi> 
+               <q rend="inline">Canſt thou by ſcarching find out God?</q> 
+               <hi>ſaith Zopar well.</hi> 
+               <q rend="inline">Canſt thou find out the Almighty unto perfection? It is as high as Heaven; what canſt Thou do? Deeper than Hell; what canſt thou know? The meaſure thereof is longer than the Earth, and broader than the Sea.</q> 
+               <hi>Job. XI. vii, viii, ix,</hi> That is, Thou maiſt as as well go about to <hi>take the meaſure of the height of Heaven,</hi> or the <hi>Depth of Hell,</hi> the <hi>length of the Earth,</hi> or <hi>Breadth of the Sea,</hi> as think to comprehend the <hi>Reaſons of God's Doings.</hi> Nay, all <hi>Theſe</hi> have their <hi>certain Bounds and Limits;</hi> but <hi>He hath none.</hi>
+            </p>
+            <p>We ſhall do well to <hi>make an Eſſay,</hi> and <hi>try our ſelves firſt with the Reſolving of the me mest of theſe common Inſtances,</hi> which are about us, before we preſume up<g ref="char:EOLhyphen"/>on thoſe, which are more <hi>Remote and Hidden.</hi> And <hi>by this very means God himſelf ſilenceth</hi> Job, ſhewing of him, that <hi>He,</hi> who found himſelf <hi>Gravel'd and Non<g ref="char:EOLhyphen"/>plus'd in accounting for the meanest of his viſible works,</hi> ſhould nor dare to <hi>penetrate into the wiſdom of his ſe<g ref="char:EOLhyphen"/>cret Counſels;</hi> convincing him all along of his igno<g ref="char:EOLhyphen"/>rance and weakneſs, by ſhewing him, how little he un<g ref="char:EOLhyphen"/>derſtood of the moſt <hi>obvious</hi> Things of the world. — And thus alſo our <hi>Bleſſed Saviour</hi> deals with <hi>Nicode<g ref="char:EOLhyphen"/>mus,</hi> St. <hi>John III.</hi> 
+               <q rend="inline">Tho the wind bloweth, where it liſteth, <hi>ſaith he,</hi> and thou heareſt the ſound thereof, but canſt not tell, whence it cometh, and whither it goeth. So is every one that is born of the Spirit. — If I have told you earthly things, and ye believe not; how ſhall ye believe if I tell you of heavenly things?</q>
+            </p>
+            <p>
+               <q rend="inline">Teach us (ſaith <hi>Elihu,</hi> in a due ſenſe of <hi>humane in<g ref="char:EOLhyphen"/>firmity and blindneſs</hi>) what we ſhall ſay unto him;
+<pb n="15" facs="tcp:101410:11"/> for we cannot order our ſpeech <hi>by reaſon of Dark<g ref="char:EOLhyphen"/>neſs.</hi> Fair (or Cold) weather cometh out of the North: with God is Terrible Majeſty. Touching the Almighty, we cannot find him out. He is ex<g ref="char:EOLhyphen"/>cellent in power and in plenty of Juſtice,</q> 
+               <hi>Job</hi> XXXVII. xix. <hi>&amp;c.</hi>
+            </p>
+            <p>Let me here put you in mind therefore of the <hi>coun<g ref="char:EOLhyphen"/>ſel of the wiſe ſon of Sirach;</hi> 
+               <q rend="inline">Seek not out the things, that are too hard for thee; neither ſearch the things which are above thy ſtrength; but, what is commanded thee, think thereupon with reve<g ref="char:EOLhyphen"/>rence. For it is not needful for thee to ſee with thine eyes the things that are in ſecret. Be not cu<g ref="char:EOLhyphen"/>rious in unneceſſary matters; for more things are ſhewed to thee, than men underſtand. For many are deceived by their own vain opinion, <hi>&amp;c.</hi>
+               </q> 
+               <hi>Eccleſ.</hi> III. xxi. <hi>&amp;c.</hi> — And then add <hi>that of the Author of the Book of Wiſdom,</hi> 
+               <q rend="inline">What man is he that can know the Counſel of God? or, Who can think, what the Will of the Lord is? For the thoughts of mor<g ref="char:EOLhyphen"/>tal men are miſerable, and our devices are uncertain. For the corruptible Body preſſeth down the ſoul; and the earthly Tabernacle weigheth down the mind, that muſeth upon many things. And hardly do we gueſs aright at things, that are upon earth, and with labour do we ſind the things, that are be<g ref="char:EOLhyphen"/>fore us. But the things, that are in heaven, who hath ſearched out? And thy Counſel who hath known, except thou give Wiſdom, and ſend thy Spirit from above?</q> 
+               <hi>Wiſd.</hi> IX. xiii. <hi>&amp;c.</hi>
+            </p>
+            <p>There is more edifying and uſeful <hi>Truth</hi> and <hi>Phi<g ref="char:EOLhyphen"/>loſophy</hi> (which indeed ſhould never be made <hi>two di<g ref="char:EOLhyphen"/>ſtinct things</hi>) in ſaying, that <hi>God bringeth the Rain, and Hail, and Snow, and Winds out of his Treaſures</hi> (his to us unknown and unſearchable <hi>Magazines</hi> or
+<pb n="16" facs="tcp:101410:12"/> 
+               <hi>Store-houſes</hi>) than in any <hi>particular reaſons we can otherwiſe aſſign of them without or beſides him.</hi>
+            </p>
+            <p n="4">IV. We learn from <hi>hence</hi> farther, <hi>Not to expect or look for any ſetled or fixed ſtate of affairs, to laſt and abide long with us in a world that is continually uncertain and mutable, liable to ſuch variety of changes from his Almighty Word,</hi> who preſides and governs all things in it.</p>
+            <p>He trains us up, by the <hi>very courſe of his Provi<g ref="char:EOLhyphen"/>dence,</hi> to look and provide <hi>continually for Changes;</hi> even by the <hi>circular Revolution of the ſeveral Seaſons of the year,</hi> and the manifold <hi>difference,</hi> which we feel and experience time after time <hi>in thoſe Seaſons.</hi> The <hi>Spring</hi> introduceth <hi>Summer,</hi> and Summer <hi>Autumn,</hi> and Autumn <hi>Winter;</hi> and then Winter again is ſuc<g ref="char:EOLhyphen"/>ceeded by the <hi>more welcome Spring,</hi> &amp;c. But we have a ſtrange <hi>Interchange</hi> ſometimes of <hi>Winterly weather with our Summers,</hi> and <hi>Summer-weather again with our Winters.</hi> — <q rend="inline">The day is thine, and the night is alſo thine, <hi>ſaith the Pſalmiſt;</hi> thou haſt prepared the Light and the Sun, (that is, the <hi>Moon</hi> and <hi>Sun</hi>) thou haſt ſet all the borders of the Earth; thou haſt made them Summer and Winter.</q> 
+               <hi>Pſal.</hi> LXXIV. xvi, xvii. <q rend="inline">The Heavens are thine; the Earth alſo is thine, Thou haſt made the North and the South,</q> 
+               <hi>Pſalm</hi> LXXXIX. xii, xiii.</p>
+            <p>Which if we would <hi>allegorize,</hi> the <hi>Preacher tells us,</hi> That <q rend="inline">God hath ſet the day of Proſperity and Adverſity over againſt each other, that man ſhould find nothing after him.</q> 
+               <hi>Eccleſ.</hi> VII. xiv. That is, <hi>No<g ref="char:EOLhyphen"/>thing juſtly to blame or amend in God's works;</hi> and <hi>yet be at continual uncertainty what ſhall befall him,</hi> that he may live the rather in a <hi>ſubmiſſive Dependence upon him,</hi> who orders all according to the Counſel of his
+<pb n="17" facs="tcp:101410:12"/> own Will; even all things in <hi>Meaſure, Number</hi> and <hi>Weight,</hi> with the greateſt <hi>Skill</hi> and <hi>Exactneſs,</hi> though <hi>we know it not,</hi> or cannot give an <hi>account of it. Good is ſet againſt evil;</hi> and <hi>Life againſt Death:</hi> Yea, <q rend="inline">Look upon all the works of the moſt High (<hi>ſaith the ſon of Sirach</hi>) and there are two and two one a<g ref="char:EOLhyphen"/>gainſt another.</q> 
+               <hi>Eccleſ.</hi> XXXIII. xiv, xv. And <hi>again,</hi> 
+               <q rend="inline">All things are double one againſt another, <hi>ſaith he,</hi> and he hath made nothing imperfect: But one thing eſtabliſheth the good of another,</q> 
+               <hi>Ch.</hi> XLII. xxiv, xxv.</p>
+            <p n="5">V. Therefore, we are from <hi>hence</hi> trained up, <hi>in the midſt of our greateſt Serenity and Happineſs,</hi> in our <hi>ſummer days of Proſperity,</hi> to be <hi>moderate</hi> and <hi>ſober;</hi> conſidering, how <hi>we,</hi> and <hi>all we have,</hi> and <hi>are related to,</hi> are at the Diſpoſal of the <hi>ſovereign Ruler</hi> among the Children of men; <q rend="inline">Who ſendeth forth his Com<g ref="char:EOLhyphen"/>mandment upon Earth, and his Word runneth very ſwiftly:</q> who can <hi>ſoon blacken our Skie with Clouds,</hi> and from thence ſend forth his <hi>Artillery of Snow, and Hail, and Rain and Cold</hi> upon us. — This alſo is <hi>well ex<g ref="char:EOLhyphen"/>preſſed by the ſon of Sirach.</hi> 
+               <q rend="inline">When thou haſt enough, remember the time of Hunger; and when thou art Rich, think upon Poverty, and Need; from the morning unto the evening the time is changed; and all things are <hi>ſoon done before the Lord.</hi>
+               </q> — That is, <q rend="inline">His Word <hi>runneth very ſwiftly.</hi>
+               </q> 
+               <hi>Eccleſ,</hi> XVIII. xxv, xxvi.</p>
+            <p>Who knows how <hi>ſoon</hi> our halcyon dayes may be turned into a <hi>Tempeſt,</hi> our Peace into <hi>Troubles,</hi> our Plenty into <hi>Want</hi> and <hi>Scarcity;</hi> our Liberty into <hi>Thraldom;</hi> our Health into <hi>Sickneſs;</hi> and our Life it ſelf into the <hi>Shades of Death?</hi>
+            </p>
+            <pb n="18" facs="tcp:101410:13"/>
+            <p n="6">VI. By the <hi>ſame inſtances</hi> we are alſo caution'd againſt <hi>Impatience and Deſpair in the time of our Ad<g ref="char:EOLhyphen"/>verſity.</hi>
+            </p>
+            <p>Againſt <hi>Impatience</hi> under that hand, which there is no <hi>controuling</hi> or <hi>reſisting</hi> of; no <hi>strugling with,</hi> or <hi>striving against;</hi> [ineluctabile fatum] that <hi>All-com<g ref="char:EOLhyphen"/>manding</hi> Hand, which <hi>wounds and alone can heal us.</hi> And then</p>
+            <p>Againſt <hi>Deſpair</hi> too in the worſt of Conditions that can befall us; for there is <hi>nothing too hard for God to alter and remove,</hi> 
+               <note n="*" place="margin">[*Sperat infe<g ref="char:EOLhyphen"/>ſtis, metuit ſe<g ref="char:EOLhyphen"/>cundis alteram ſortem benè praeparatum pectus. <hi>Infor<g ref="char:EOLhyphen"/>mes hiemes reducit Jupi<g ref="char:EOLhyphen"/>ter: Idem ſu<g ref="char:EOLhyphen"/>meret:</hi> non ſi malè nunc, &amp; olim ſic erit. — ] <hi>Horat.</hi>]</note> with <hi>leſs Trouble and Diffienlty than we ſpeak a Word.</hi> Be the Seaſon never ſo <hi>rigo<g ref="char:EOLhyphen"/>rous</hi> and <hi>extreme,</hi> ſo that we are not able to hold up long under it, yet he can <hi>ſend out his Word and diſ<g ref="char:EOLhyphen"/>ſolve all into Softneſs; blow upon the frozen Ice with his ſouth wind,</hi> and make <hi>the waters flow again out of the Rock.</hi> He can <hi>huſh and lay the ſtormy Tempeſt,</hi> or turn it into a <hi>Calm,</hi> our <hi>Night</hi> into <hi>Day,</hi> our <hi>Calamity</hi> and <hi>Sorrow</hi> into <hi>Joy</hi> and <hi>Gladneſs.</hi> He can <hi>act, what to us looks very like a Contradiction and Repugnance;</hi> make the <hi>cold and chilling Snow to warm the Earth,</hi> and <hi>feed it with his Ice, as morſels of Bread.</hi> He can bring <hi>ſweet out of bitter</hi> to us. The <hi>ſame vapours</hi> he can turn (and daily doth) into <hi>contrary appearances;</hi> even into <hi>moiſt and fluid Rain,</hi> or into <hi>hard and ſtony Ice, like Chryſtal,</hi> or elſe into <hi>ſoft and yielding Snow.</hi>
+            </p>
+            <p>Let us not therefore forget the <hi>Exhortation,</hi> or <hi>Con<g ref="char:EOLhyphen"/>ſolation,</hi> [for the word <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſignifies both,</hi> and <hi>both indeed it is</hi>] which ſpeaketh unto us, <hi>as children;</hi> 
+               <q rend="inline">My ſon deſpiſe not thou the chaſtening of the Lord; nor faint, when thou art rebuked of him,</q> 
+               <hi>Hebr.</hi> Xll. v.</p>
+            <pb n="19" facs="tcp:101410:13"/>
+            <p n="7">VII. From <hi>hence</hi> we may learn the <hi>monſtrous and unaccountable Vanity of profane men, who can ever think to thrive in the world, without God's leave and bleſſing:</hi> When as it is <hi>plain,</hi> that, not only <hi>we our ſelves ſubſiſt by him, live and move and have our being in him;</hi> Live <hi>not by Bread alone, but by every Word of God:</hi> But the very <hi>common means of our Subſiſtence, depend alto<g ref="char:EOLhyphen"/>gether and entirely upon him;</hi> upon his <hi>Smiles, to vouchſafe, ſecure, and ſucceed them,</hi> or upon his <hi>Frowns,</hi> to <hi>diſappoint and deprive us of them,</hi> or <hi>blaſt them to us,</hi> and render them <hi>ineffectual.</hi>
+            </p>
+            <p>There are a <hi>great many things, that go to the up<g ref="char:EOLhyphen"/>holding of us in the world:</hi> And we can <hi>have none of them all,</hi> unleſs <hi>he pleaſe;</hi> nor any of them <hi>longer,</hi> than he pleaſe; nor can any of them <hi>do us good further,</hi> than he pleaſe to bleſs it. We too much verifie the <hi>vulgar Emblem</hi> of <hi>Swine feeding upon Acorns on the Ground, without looking up to the Tree that ſcatters them.</hi> We are maintain'd by <hi>God's heavenly Bounty,</hi> but conſider not, as we ought, <hi>the inviſible Hand in the Clouds,</hi> that diſpenſeth all unto us. <hi>We pore only upon the Crop before us,</hi> without thinking, how many <hi>Cauſes</hi> and <hi>Circumſtances</hi> the Production of it is ow<g ref="char:EOLhyphen"/>ing to. We conſider not how the <hi>Earth muſt hear the Corn and Graſs,</hi> and the <hi>Heavens alſo hear the Earth;</hi> and the <hi>God of Heaven and Earth proſper both.</hi> 'Tis <hi>he,</hi> that muſt <hi>open the Windows of Heaven,</hi> and <hi>pour us out a Bleſſing from thence,</hi> that we may have a <hi>Suffi<g ref="char:EOLhyphen"/>ciency</hi> or <hi>Plenty</hi> of all neceſſaries, <hi>Malachi</hi> III. x.</p>
+            <p>This is the <hi>ſence and importance of that excellent Pſalm,</hi> [<hi>Pſal.</hi> Cxxvii.] <q rend="inline">Except the Lord build the Houſe, the Workman buildeth in vain. Except the Lord keep the City, the Watchman alſo waketh in vain.</q> And, ſo in <hi>like manner,</hi> 
+               <q rend="inline">all the reſt of our toil
+<pb n="20" facs="tcp:101410:14"/> and labour is in vain, unleſs <hi>he ſpeed the Plough,</hi> and <hi>give the increaſe.</hi>
+               </q>
+            </p>
+            <p>Of <hi>all ſorts of men</hi> in the world, the <hi>Husbandman,</hi> one would think, (and <hi>conſequently</hi> indeed <hi>all others,</hi> who are ſome way or other <hi>beholding to him:</hi> for <q rend="inline">the profit of the earth is for all; the King himſelf is ſer<g ref="char:EOLhyphen"/>ved by the Field,</q> 
+               <hi>Eccleſ.</hi> v. ix.) But of all others, I ſay, the <hi>Husbandman ſhould be Religious,</hi> whoſe livelihood and ſucceſs doth <hi>all along ſo viſibly depend upon God Almighty's Providence. St. James tells us of his pa<g ref="char:EOLhyphen"/>tience,</hi> and he recommends it for <hi>a pattern worthy of imitation.</hi> 
+               <q rend="inline">Behold the Husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early, and the later rain,</q> 
+               <hi>Chap.</hi> v. vii. — And he ſhould be as exemplary for a <hi>continual devotion God-wards,</hi> who alone can proſper him.</p>
+            <p>And this hath been always the Piety of good men, to utter their <hi>good wiſhes for themſelves and one to another,</hi> by <hi>directing them ſtill to Heaven for the ſucceſs.</hi> Whence is <hi>that of the Pſalmist,</hi> 
+               <q rend="inline">Proſper thou the work of our hands upon us. O proſper thou our handy-work,</q> 
+               <hi>Pſal.</hi> xc. <hi>And again,</hi> 
+               <q rend="inline">Neither do they, which go by, ſay, The bleſſing of the Lord be upon you; we bleſs you in the Name of the Lord,</q> 
+               <hi>Pſal.</hi> cxxix.</p>
+            <p>Now, let none tell me here, that <hi>ſome thrive as well, who ſeldom or never call upon God for it.</hi> For theſe are <hi>inſtances of his patience and long-ſuffering only.</hi> But they have <hi>nothing to trust to, that ſo they ſhall.</hi> They take not the <hi>right way and method</hi> for it. And, when <hi>Adverſity</hi> befalls them, (as frequently it doth) they have the <hi>ſenſe of their own guilt to double and increaſe it; wrath with their ſickneſs,</hi> &amp;c.<note place="margin">Eccleſ. v. xvii.</note>
+            </p>
+            <p n="8">VIII. How <hi>dreadful a thing must it needs be, to pro<g ref="char:EOLhyphen"/>voke
+<pb n="21" facs="tcp:101410:14"/> God to be our Enemy,</hi> upon whom we not only have <hi>ſo cloſe and near a dependance,</hi> but who is <hi>ſo for<g ref="char:EOLhyphen"/>midable for ſtrength and power!</hi> He is a <hi>terrible Enemy indeed,</hi> who can, when ever he pleaſe, <hi>cut off all Re<g ref="char:EOLhyphen"/>cruits and Succors from us, ſtop all Reliefs, ſtarve and pine us out with hunger and thirst, and cold and na<g ref="char:EOLhyphen"/>kedneſs.</hi> Nay, and he hath <hi>many terrible Hoſts of ſtrong ones,</hi> whom we cannot brave it out againſt, <hi>at his beck and command;</hi> 
+               <q rend="inline">Snow and Hail, and Storm and Tempeſt, all fulfilling of his word;</q> proſpering and ſucceeding to what end ſoever he <hi>commiſſions</hi> them. And <hi>who is able to abide his Thunderbolts,</hi> or <hi>his Frost?</hi> His <hi>ſcorching heat,</hi> or <hi>pinching cold?</hi>
+            </p>
+            <p>Now, If we are not able to <hi>ſtand before his cold,</hi> which is but <hi>one of that numerous Militia,</hi> ready preſt for his ſervice, how ſhall we ever <hi>bear up against him<g ref="char:EOLhyphen"/>ſelf?</hi> As <hi>he reaſons with Job upon that formidable Inſtance</hi> (which is but a <hi>ſingle Inſtance too</hi> of his power) the great and ſtupendious <hi>Leviathan</hi> in the waters (the <hi>Whale</hi> or <hi>Crocodile</hi>) <hi>Job xli. x.</hi> 
+               <q rend="inline">None is ſo fierce, that dare ſtir him up. Who then is able to <hi>ſtand before me?</hi>
+               </q> q.d. If <hi>one of my Creatures</hi> is ſo terrible, how dangerous then muſt it be to provoke <hi>my Majeſty!</hi> 
+               <q rend="inline">Do we provoke the Lord to jealouſie? <hi>ſaith the Apo<g ref="char:EOLhyphen"/>ſtle.</hi> Are we ſtronger than he?</q> 1 <hi>Cor. x. xxii.</hi> Sure we are <hi>not in our right ſenſes,</hi> if ſo we <hi>do,</hi> or <hi>think.</hi> 
+               <q rend="inline">He is wiſe in heart, and mighty in ſtrength. Who hath hardned himſelf againſt him, and hath pro<g ref="char:EOLhyphen"/>ſpered?</q> 
+               <hi>Job ix. iv.</hi> And, as it <hi>follows a little after,</hi> 
+               <q rend="inline">If he will not withdraw his anger, the <hi>proud helpers,</hi> do ſtoop under him.</q> [None can ever relieve us againſt him, <hi>vaunt he never ſo much</hi> of his proweſs, or have <hi>we never ſo high a conceit and opinion</hi> of him.] <hi>Verſe xiii.</hi> 
+               <q rend="inline">Should not therefore his excellency make us afraid, and his dread fall upon us?</q> 
+               <hi>as it is, Chap.
+<pb n="22" facs="tcp:101410:15"/> xiii. xi.</hi> Alas! the <hi>leaf</hi> may better reſiſt the <hi>wind,</hi> and the <hi>dry ſtubble</hi> the <hi>raging fire,</hi> than any <hi>mortal</hi> con<g ref="char:EOLhyphen"/>tend with <hi>him, Ver. xxv.</hi> — <q rend="inline">The earth ſhall tremble at the look of him. If he do but touch the mountains, they ſhall ſmoke.</q> — <hi>So the Pſalmist repre<g ref="char:EOLhyphen"/>ſents the glorious majeſty of that God,</hi> 
+               <q rend="inline">who decketh himſelf with light as with a garment; and ſpreadeth out the heav'ns like curtains; who layeth the beams of his chambers in waters, and maketh the clouds his chariot, and walketh upon the wings of the wind, &amp;c.</q> 
+               <hi>Pſal. Civ.</hi>
+            </p>
+            <p>'Tis <hi>madneſs</hi> in us to continue in <hi>rebellion</hi> againſt and <hi>defiance</hi> of <hi>ſuch an Enemy</hi> as he is, the <hi>Almighty Lord of ſo many mighty Hoſts.</hi> And, <hi>upon the ſame account,</hi>
+            </p>
+            <p n="9">IX. It muſt <hi>needs be our best policy and greatest wiſdom, to yield and ſubmit our ſelves betimes unto him; forthwith to ſeek peace and reconciliation and agreement with him,</hi> that <hi>he may be our Friend,</hi> and <hi>we his Favourites:</hi> As the <hi>men of Tyre and Sidon,</hi> we read, <hi>deſired to make peace with</hi> Herod, <q rend="inline">becauſe their Country was nouriſhed by the King's Country,</q> 
+               <hi>Acts XII. xx.</hi> But, what a <hi>contemptible</hi> thing was <hi>Herod</hi>'s <hi>diſpleaſure,</hi> had he contrived them the <hi>worſt Revenge</hi> he could, <hi>compared unto God's?</hi>
+            </p>
+            <p>
+               <q rend="inline">What King going to war againſt another King (<hi>ſaith our Bleſſed Saviour</hi>) ſitteth not down firſt, and conſulteth, whether he be able with Ten Thou<g ref="char:EOLhyphen"/>ſand to meet him that cometh againſt him with Twenty Thouſand? (that is, <hi>double his number</hi>) or elſe, while the other is yet a great way off, he ſendeth an Embaſſage, and deſireth Conditions of Peace,</q> St. <hi>Luke XIV. xxxi, xxxii.</hi> But <hi>we,</hi> alas! (ſuch is our <hi>weak<g ref="char:EOLhyphen"/>neſs</hi>) have not ſo much as <hi>
+                  <g ref="char:V">Ʋ</g>nites</hi> to oppoſe his <hi>Myriads,
+<pb n="23" facs="tcp:101410:15"/> and Thouſands of Thouſands, his Numberleſs Legions with;</hi> And he is not <hi>a great way off</hi> from us neither, but <hi>al<g ref="char:EOLhyphen"/>ways at hand, incompaſſing all our ways.</hi> Nevertheleſs (ſuch is His <hi>pity and compaſſion</hi> towards us) <note place="margin">[II Cor. V. xx.</note> He <hi>himſelf makes us gracious overtares of Peace and amity.</hi> And therefore we are ſtrangely <hi>beſotted,</hi> if we do not forth<g ref="char:EOLhyphen"/>with <hi>cloſe with and accept them;</hi> yea, if we do not <hi>preſs earneſtly and ſpeedily, that the Articles of Agreement be<g ref="char:EOLhyphen"/>tween us may be ſigned and ſealed,</hi> that we may <hi>hence<g ref="char:EOLhyphen"/>forward become his Allies and Confederates.</hi>
+            </p>
+            <p>For <hi>then</hi> we ſhall have as much <hi>Comfort from hence,</hi> as otherwiſe it ſpeaks dread and terror to us. Then may we at all times <hi>encourage our ſelves with</hi> David, <hi>in the Lord our God;</hi> and <hi>make his name a strong Tower to betake our ſelves unto for ſafety and ſecurity.</hi> The Bleſſing of the <hi>Omnipotent God of Salvation</hi> will be then upon us. This we find to have been the <hi>Churches Conſi<g ref="char:EOLhyphen"/>dence.</hi> 
+               <q rend="inline">God is our Refuge, and ſtrength, a very preſent Help in Trouble: Therefore will we not Fear. The Lord of Hoſts is with us: The God of <hi>Jacob</hi> is our Refuge,</q> 
+               <hi>Pſal. XLVI.</hi> Even, the <hi>Almigh<g ref="char:EOLhyphen"/>ty God,</hi> who <hi>Creates and Governs all things with his word only.</hi>
+            </p>
+            <p>This is <hi>the <g ref="char:V">Ʋ</g>ſe, which God makes of his Almighty power;</hi> to <q rend="inline">ſet up the Meek, and bring down the un<g ref="char:EOLhyphen"/>godly down to the ground;</q> 
+               <hi>as it is before the Text, verſe vi.</hi> and <hi>again verſe xi.</hi> 
+               <q rend="inline">His delight is in them that fear him, and put their Truſt in his mercy.</q> — And we have evidence enough, that he is <hi>never at a loſs to ſuccour and relieve, protect and bleſs his Faithful Ser<g ref="char:EOLhyphen"/>vants, whom he delighteth in;</hi> whether <hi>by means,</hi> or <hi>without means,</hi> or <hi>through unlikely and contrary mens.</hi>
+               <note place="margin">[Vide <hi>Scultet.</hi> in Loc.]</note>
+            </p>
+            <pb n="24" facs="tcp:101410:16"/>
+            <p>[<hi>Per media.</hi>] He can <hi>fill many Thouſands with a few Loaves and Fiſhes only.</hi> So <hi>Christ ſent forth his word,</hi> that is, <hi>commanded thoſe Loaves and Fiſhes to be multipli<g ref="char:EOLhyphen"/>ed;</hi> And <q rend="inline">
+                  <hi>his word ran very ſwiftly;</hi>
+               </q> ſo that <hi>all the Multitude eat of them and were ſatisfied,</hi> and <hi>many Baſ<g ref="char:EOLhyphen"/>kets of Fragments</hi> were yet left.</p>
+            <p>[<hi>Sine Mediis.</hi>] So, when the <hi>Iſraelites</hi> in the Deſart had neither <hi>Bread to Eat,</hi> nor <hi>Water to Drink,</hi> nor <hi>Fleſh, according to their Appetite;</hi> God <hi>ſent but forth his word,</hi> and the <hi>Clouds above rained Manna,</hi> and the <hi>Rock below guſhed out Water,</hi> and the <hi>Wind brought them Quails in abundance.</hi>
+            </p>
+            <p>[<hi>Contrariis Mediis.</hi>] So <hi>Elias</hi> in ſcarcity was <hi>fed by the Raven,</hi> a <hi>Bird of Prey bringing him Meat;</hi> And <hi>Jonah ſwallowed up, and preſerved and cast ſafe on Shore by a Greedy Whale.</hi>
+            </p>
+            <p>
+               <q rend="inline">Aſcribe ye Power to the God of Iſrael, <hi>with the Pſalmiſt:</hi> His Worſhip and Strength is in the Clouds, O God, wonderful art thou in thy holy places, even the God of Iſrael! He will give Strength and Power unto his people. Bleſſed be God,</q> 
+               <hi>Pſal.</hi> LXVIII. xxxiv, xxxv.</p>
+            <p n="10">X. <hi>How well grounded is the Piety of our Church, which ſends us upon all occaſions to that God from whom all good things do come, for all the Bleſſings we at any time want;</hi> and <hi>ſends us back again alſo to him with our Thanksgivings for whatſoever we receive.</hi> Here is the Foundation of all our <hi>Collects for Rain,</hi> or <hi>Fair<g ref="char:EOLhyphen"/>weather;</hi>
+               <pb n="25" facs="tcp:101410:16"/> for the <hi>averting of Famine or Scarcity,</hi> and <hi>vouchſafing us Plenty in the room of it.</hi> For <hi>Succour amidſt Storms and Tempeſts at Sea.</hi> For <hi>Healthful and Fruitful Seaſons.</hi> 
+               <q rend="inline">That he would <hi>give</hi> and <hi>preſerve</hi> unto us the <hi>kindly</hi> Fruits of the Earth, ſo as in <hi>due time</hi> we may enjoy them, <hi>&amp;c.</hi>
+               </q> — Here is the ground both of our <hi>Prayers</hi> and <hi>Doxologies.</hi> And this is the chief <hi>Deſign of our Rogation days,</hi> whereto the <hi>Homilies then appointed</hi> are very agreeable.<note n="*" place="margin">The <hi>doctrine of which is,</hi> That <hi>all good things do come from God;</hi> as the <hi>Collect alſo for that ſeaſon</hi> doth recog<g ref="char:EOLhyphen"/>nize.</note>
+            </p>
+            <p>Laſtly, To conclude all, <hi>This Doctrine of Divine Providence, as it is laid down before us, is indeed a School and Nurſery of univerſal Vertue,</hi> with reference to <hi>our ſelves,</hi> and <hi>others,</hi> and towards <hi>God himſelf.</hi>
+            </p>
+            <p n="1">I. With reference to <hi>our ſelves,</hi> in that all things are <hi>ſo managed by God,</hi> as to train us up to the <hi>Exerciſe of all manner of Prudence and Fore-caſt, and good Hus<g ref="char:EOLhyphen"/>bandry,</hi> in making ſeaſonable <hi>Proviſions for a future Supply,</hi> and demeaning our ſelves with all honeſt <hi>Care</hi> and <hi>Circumſpection,</hi> that neither in our <hi>Health,</hi> nor <hi>Eſtate,</hi> we ſuffer Prejudice through our <hi>Idleneſs, Sloth,</hi> or <hi>Inconſiderateneſs.</hi> It reads us over <hi>the w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe mans Le<g ref="char:EOLhyphen"/>cture, Prov.</hi> Vl. vi. <hi>&amp;c.</hi> 
+               <q rend="inline">Go to the Ant, thou Slug<g ref="char:EOLhyphen"/>gard, conſider her ways, and be wiſe: which having no Guide, Overſeer, or Ruler, provideth her Meat in the Summer, and gathereth her Food in the Har<g ref="char:EOLhyphen"/>veſt.</q> — There is <hi>no ſuch ingenious Tutor of all ſorts of Prudence as Neceſſity.</hi> [Quis expedirit Pſittaco ſuum <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>? <hi>Magiſter artis, ingenique largitor, ven<g ref="char:EOLhyphen"/>ter.</hi>]<note place="margin">Perſius.</note>
+            </p>
+            <pb n="26" facs="tcp:101410:17"/>
+            <p n="2">II. Next, as to <hi>others,</hi> it trains us up to all the <hi>bow<g ref="char:EOLhyphen"/>els of Compaſſion and Charity,</hi> in conſulting, what we can, for their <hi>Indigence</hi> and <hi>Infirmities,</hi> to help and enable them to <hi>ſupport themſelves and Families under thoſe pinching Extremities,</hi> which do ſometimes attend the Seaſon of the year: <hi>With Dorcas to make Coats and Garments for the poor Widows, Acts</hi> IX. xxxix. And, <hi>with the hoſpitable Batharians at Melita, to ſhew all poſſible Kindneſs to ſhip wrack'd Strangers, kindling them a Fire, and taking them into ſhelter, becauſe of the preſent Rain and Cold.</hi> As St. <hi>Paul</hi> records that <hi>lovely inſtance of heathen Goodneſs and Humanity, Acts</hi> XXVIII. i, ii. — How great a Charity and Beni<g ref="char:EOLhyphen"/>ficence is it to contribute towards the Relief of the neceſſitous, in <hi>Fewel</hi> and <hi>Cloths,</hi> and <hi>Harbour,</hi> as well as <hi>Food,</hi> to render the bitter winter tolerable! — And</p>
+            <p n="3">III. It trains us up, eſpecially, to the <hi>religious Fear and Obedience of God.</hi>
+            </p>
+            <p>
+               <q rend="inline">Let all the earth fear the Lord, <hi>ſaith the Pſalmiſt,</hi> let all the inhabitants of the world ſtand in awe of him:</q> as I <hi>quoted it before,</hi> and that <hi>from a like Topic, Pſalm</hi> XXXIII. And he <hi>takes notice,</hi> whether we <hi>make that uſe of our Reaſon,</hi> as we ſhould, to <hi>infer this Duty from hence,</hi> and lets us know <hi>how ill he reſents it,</hi> if we <hi>do not ſo.</hi> Witneſs that <hi>Complaint againſt his people for this neglect, Jerem.</hi> V. xxiv. <q rend="inline">Neither ſay they in their heart, Let us now fear the Lord our God, who giveth us Rain, the former and the latter Rain in its ſeaſon, and reſerveth to us the appointed
+<pb n="27" facs="tcp:101410:17"/> Weeks of the Harveſt.</q> — That is, <hi>Who crowneth the year with his Goodneſs;</hi> feedeth us with the <hi>Fat of Wheat;</hi> and for the Production of that, <hi>commands the Clouds and Seaſons,</hi> &amp;c.</p>
+            <p>But, This is not <hi>all,</hi> I would here ſuggeſt; <hi>This farther offers it ſelf to our Thoughts.</hi> That it is <hi>highly Reaſonable</hi> we ſhould learn Obedience to <hi>Him, whoſe commands all Things elſe ſo readily obey.</hi> Even, <q rend="inline">Snow, and Hail, and Ice; Storm and Tempeſt, fulfilling his word.</q>
+            </p>
+            <p>We ſhould therefore learn <hi>Obedience from them,</hi> that we be not <hi>Heteroclites and Exceptions from the rest of the Creation;</hi> unto whom it might be expect<g ref="char:EOLhyphen"/>ed, that we, who are in a <hi>Form above them,</hi> ſhould <hi>rather ſet a good Example.</hi> And we ſhould learn this Obedience <hi>the more,</hi> becauſe, what in them is <hi>Neceſſity only,</hi> may in us be <hi>a Vertue,</hi> and a Vertue <hi>highly to be rewarded from our Lord and Maſters Bounty.</hi> — And <hi>still the more,</hi> becauſe the <hi>Ties of Gratitude</hi> are upon us. We are obliged to pay this <hi>Tribute of Thankfulneſs</hi> to him, whom all Things elſe obey <hi>for our Benefit and Welfare,</hi> to maintain us in Health, and Strength, and Chearfulneſs, that we may do him ſervice; And that <hi>without anxious and diffident cares for our own Provi<g ref="char:EOLhyphen"/>ſion;</hi> what we ſhall <hi>Eat,</hi> and what we ſhall <hi>Drink,</hi> and wherewith we ſhall be <hi>cloathed:</hi> Si<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e the <hi>Lord, we ſerve,</hi> is both <hi>able</hi> and <hi>willing to ſupply us with all theſe Neceſſaries;</hi> Being <hi>ſuch in power and Wiſdom, and Goodneſs,</hi> as we have <hi>heard him deſcribed.</hi>
+            </p>
+            <p>
+               <q rend="inline">Who ſendeth his commandment upon Earth, and his word runneth very ſwiftly: who giveth Snow like
+<pb n="28" facs="tcp:101410:18"/> wooll, and ſcattereth the Hoar-froſt like Aſhes; who caſteth forth his Ice, like Morſels; ſo that none is able to withſtand his cold: who ſendeth out his word again, and melteth them; bloweth with his South Wind, and the Waters flow.</q>
+            </p>
+            <p>Now, unto this <hi>Supreme All-perfect Being,</hi> the <hi>Crea<g ref="char:EOLhyphen"/>tor, Preſerver, and Ruler of the world,</hi> the Almighty and Everlaſting God, <hi>who Governs all Things both in Heaven and Earth,</hi> be aſcribed by us, as is moſt due, All <hi>Honour</hi> and <hi>Glory,</hi> and <hi>Praiſe,</hi> and <hi>Adoration,</hi> with <hi>Thanksgiving,</hi> and <hi>Obedience,</hi> for ever and ever. <hi>Amen.</hi>
+            </p>
+            <trailer>The END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Books lately printed and ſold by <hi>Ric. Chiſwell.</hi>
+            </head>
+            <list>
+               <item>DOctor <hi>Puller</hi>'s Diſcourſe of the Moderation of the Church of <hi>England.</hi>
+               </item>
+               <item>Dr. <hi>Henry Bagſhaw</hi>'s Diſcourſes on ſelect Texts.</item>
+               <item>Mr. <hi>Seller</hi>'s Remarks relating to the State of the Church in the three firſt Centuries.</item>
+               <item>Dr. <hi>Sherlock</hi>'s Practical Diſcourſe of Religious Aſſemblies.</item>
+               <item> — Defence of Dr. <hi>Stillingfleets</hi> Unreaſonableneſs of Sepa<g ref="char:EOLhyphen"/>ration.</item>
+               <item> — A Vindication of the Defence of Dr. <hi>Stillingfleet,</hi> in anſwer to Mr. <hi>Baxter</hi> and Mr. <hi>Lob</hi> about Catholick Communion.</item>
+               <item>The Hiſtory of the Houſe of <hi>Eſtée,</hi> the Family of the Dutcheſs of <hi>York, Octavo.</hi>
+               </item>
+               <pb facs="tcp:101410:18"/>
+               <item>Sir <hi>Robert Filmer</hi>'s <hi>Patriarcha,</hi> or Natural Power of Kings.</item>
+               <item>Mr. <hi>John Cave</hi>'s Goſpel to the <hi>Romans:</hi>
+               </item>
+               <item>Mr. <hi>Camfield</hi>'s two Diſcourſes of Epiſcopal Confirmation, <hi>Oc<g ref="char:EOLhyphen"/>tavo.</hi>
+               </item>
+               <item>Biſhop <hi>Wilkin</hi>'s Fifteen Sermons never before extant.</item>
+               <item>Mr. <hi>John Cave</hi>'s two Sermons of the duty and benefit of ſub<g ref="char:EOLhyphen"/>miſſion to the Will of God in Afflictions, <hi>Quar.</hi>
+               </item>
+               <item>Dr. <hi>Crawford</hi>'s ſerious expoſtulation with the Whiggs in <hi>Scot<g ref="char:EOLhyphen"/>land, Quarto.</hi>
+               </item>
+               <item>A Letter giving a Relation of the preſent State of the Difference between the <hi>French</hi> King and the Court of <hi>Rome;</hi> to which is added, The Popes Brief to the Aſſembly of the Clergy, and their Proteſtation. Publiſhed by Dr. <hi>Burnet.</hi>
+               </item>
+               <item>Mr. <hi>Tanner</hi>'s <hi>Primordia:</hi> or the Riſe and Growth of the firſt Church of God deſcribed, <hi>Octavo.</hi>
+               </item>
+               <item>A Letter writ by the laſt Aſſembly General of the Clergy of <hi>France</hi> to the Proteſtants, inviting them to return to their Communion; together with the Methods propoſed by them for their Conviction. Tranſlated into Engliſh and Examined by Dr. <hi>Gilb. Burnet, Octavo</hi>
+               </item>
+               <item>Animadverſions on a late Treatiſe intituled, The Proteſtant Re<g ref="char:EOLhyphen"/>conciler, 8<hi rend="sup">o</hi>.</item>
+               <item>A Diſſwaſive from Revenge, by Dr. <hi>Stratford</hi> Dean of St. <hi>Aſaph. Octavo.</hi>
+               </item>
+               <item>Dr. <hi>Cave</hi>'s Diſſertation concerning the Government of the An<g ref="char:EOLhyphen"/>cient Church by Biſhops, Metropolitans, and Patriarchs: more particularly concerning the ancient Power and Juriſdiction of the Biſhops of <hi>Rome,</hi> and the encroachments of that upon other Sees, eſpecially <hi>Conſtantinople, Octavo.</hi>
+               </item>
+               <item> — His Hiſtory of the Lives, Acts, Death, and VVritings of the moſt eminent Fathers of the Church that flouriſhed in the Fourth Century: (being a Second Volumn) wherein, amongſt other things, is an Account of <hi>Arianiſm,</hi> and all other Sects of that Age. VVith an <hi>Introduction,</hi> containing an Hi<g ref="char:EOLhyphen"/>ſtorical Account of the State of <hi>Paganiſm</hi> under the Firſt Chriſtian Emperours, <hi>Folio.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Books in the Preſs.</head>
+               <item>DOctor <hi>John Lightfoot</hi>'s Works in Engliſh, in two Volumns, <hi>Folio.</hi>
+               </item>
+               <item>
+                  <hi>D. Spenceri Diſſertationes de Ratione Rituum Judaicorum, &amp;c.</hi> Fol.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
